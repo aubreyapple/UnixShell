@@ -1,6 +1,6 @@
 # The official makefile for Program 2, CS570
 
-PROGRAM = p2
+PROGRAM = shell
 CC = gcc
 CFLAGS = -g
 
